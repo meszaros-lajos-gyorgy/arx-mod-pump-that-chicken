@@ -213,8 +213,6 @@ ON CHAT {
     DEC §pumping_cooldown §last_pumped
     SET §last_pumped ^arxseconds
 
-    HEROSAY §pumping_cooldown
-
     if (§pumping_cooldown <= 3) {
       SETINTERACTIVITY OFF
       SETSCALE 100
