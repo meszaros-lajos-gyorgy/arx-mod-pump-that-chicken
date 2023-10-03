@@ -1,4 +1,4 @@
-# arx-mod-potion-guard
+# Pump that chicken! Arx Fatalis mod
 
 An Arx Fatalis mod that makes the "clicking on chickens" mechanism a bit more interesting
 
